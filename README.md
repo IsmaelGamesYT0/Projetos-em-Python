@@ -44,7 +44,8 @@ Este projeto contém diversos scripts em Python que abordam temas como:
 
 ## Contribuição
 
-Contribuições são bem-vindas! Sinta-se à vontade para abrir um "issue" ou enviar um "pull request".
+Contribuições são bem-vindas! Sinta-se à vontade para abrir um "issue" ou enviar um "pull request". 
+Para mais informações, consulte o arquivo [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Licença
 
