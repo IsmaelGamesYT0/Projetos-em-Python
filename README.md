@@ -12,21 +12,7 @@ Este projeto contém diversos scripts em Python que abordam temas como:
 
 ## Estrutura do Projeto
 
-```
- /Projetos-em-Python
-├── bot.py
-├── calculaora_adicao.py
-├── contagem_regressiva.py
-├── controle_acesso_idade.py
-├── mini-entrevista.py
-├── numeros_inteiros.py
-├── palidromo-checker.py
-├── quiz.py
-├── saudação.py
-└── soma_pares.py
-
-```
-
+/Projetos-em-Python ├── bot.py ├── calculaora_adicao.py ├── contagem_regressiva.py ├── controle_acesso_idade.py ├── mini-entrevista.py ├── numeros_inteiros.py ├── palidromo-checker.py ├── quiz.py ├── saudação.py └── soma_pares.py
 
 ## Como Usar
 
@@ -34,26 +20,23 @@ Este projeto contém diversos scripts em Python que abordam temas como:
    ```bash
    git clone https://github.com/IsmaelGamesYT0/Projetos-em-Python.git
 
-   Aqui está o README.md atualizado, incluindo sua descrição atual:
-
 2. Navegue até a pasta do projeto:
-   cd Projetos-em-Python
+
+bash
+Copiar código
+cd Projetos-em-Python
 
 3. Execute o script desejado com Python:
-   python nome_do_script.py
 
-## Contribuição
+bash
+Copiar código
+python nome_do_script.py
 
-Contribuições são bem-vindas! Sinta-se à vontade para abrir um "issue" ou enviar um "pull request". 
-Para mais informações, consulte o arquivo [CONTRIBUTING.md](CONTRIBUTING.md).
+Contribuição
+Contribuições são bem-vindas! Sinta-se à vontade para abrir um "issue" ou enviar um "pull request". Para mais informações, consulte o arquivo CONTRIBUTING.md.
 
-## Licença
-
+Licença
 Este projeto é de código aberto e pode ser usado livremente. Sinta-se à vontade para adaptá-lo às suas necessidades.
 
-### O que fazer a seguir
 
-1. **Copie e cole** o conteúdo acima no seu arquivo `README.md`.
-2. **Salve e faça o commit** no GitHub.
-
-Se precisar de mais ajuda, estou aqui!
+Agora é só colar no seu arquivo `README.md` no repositório e salvar. Se precisar de mais algum ajuste ou ajuda, é só me avisar!
