@@ -26,7 +26,7 @@ try:
     elif farcry == 'farcryprimal':
         print('Passou Longe. o Far Cry Primal é considerado o 5° Melhor.')
     elif farcry == 'farcry1':
-        print('Desculpe, o Far Cry 1 é considerado o 6° Melhor.')
+        print('Desculpe, o Far Cry 1 é considerado o 7° Melhor.')
         time.sleep(2)
     else:
         print('Não entendi.')
