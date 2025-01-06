@@ -1,0 +1,13 @@
+##############################################
+#          Sincronização do Projeto          #
+##############################################
+
+Este arquivo serve como um registro da migração
+e sincronização do repositório de código entre
+os sistemas operacionais Linux e Windows.
+
+Todas as alterações e atualizações foram
+devidamente transferidas e adaptadas para o
+novo ambiente.
+
+##############################################
